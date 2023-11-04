@@ -237,13 +237,13 @@ video {
   transform: rotate3d(1, 1, 0, 10deg);
 }
 #card-1 {
-  background-image: url(/assests/home-toptracer.avif);
+  background-image: url(../assests/home-toptracer.avif);
 }
 #card-2 {
-  background-image: url(/assests/hero-4.avif);
+  background-image: url(../assests/hero-4.avif);
 }
 #card-3 {
-  background-image: url(/assests/home-lessons.avif);
+  background-image: url(../assests/home-lessons.avif);
 }
 .overlays {
   height: 100%;
@@ -390,7 +390,7 @@ video {
   background: linear-gradient(to left bottom, #96c11e, #19a138);
 }
 /* #footer-back {
-  background-image: url(/assests/dots-side.svg);
+  background-image: url(../assests/dots-side.svg);
   background-repeat: no-repeat;
   height: 50%;
   object-fit: cover;
